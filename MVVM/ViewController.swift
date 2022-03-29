@@ -73,7 +73,7 @@ struct Person {
 
 
 //Step 3 Explain ViewModel that makes this MVVM
-//This behaves as a subject of some of the data in the model
+//This behaves as a subsect of some of the data in the model
 struct CellViewModel {
     let firstName: String
     let lastName: String
